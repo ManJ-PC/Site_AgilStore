@@ -6,12 +6,12 @@ Desenvolvimento do website da empresa cliente.
 
 ## Stakeholder
 
- Rodrigo
- Manuel
- Sérgio
- Marta
- Ana
- Telmo
+ * Rodrigo
+ * Manuel
+ * Sérgio
+ * Marta
+ * Ana
+ * Telmo
 
 ## Equipa Agilstore
 
