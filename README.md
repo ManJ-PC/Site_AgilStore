@@ -3,6 +3,7 @@
 ## Objetivo
 
 Desenvolvimento do website da empresa cliente.
+Questões relacionadas com a escolha da tecnologia e funcionalidades do site: https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html?m=1
 
 ## Stakeholder
 
